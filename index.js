@@ -42,7 +42,7 @@ function wrong(){
 }
 
 function song(key){
-    var song=new Audio("sounds/"+key+".mp3");
+    var song=new Audio(key+".mp3");
     song.play();
 }
 
