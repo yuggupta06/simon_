@@ -27,8 +27,10 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/simon-game.git
+git clone https://github.com/yuggupta06/simon-game.git
 Open index.html in your browser.
+
+Website LINK: https://yuggupta06.github.io/simon_/
 
 No build tools or installations required!
 
